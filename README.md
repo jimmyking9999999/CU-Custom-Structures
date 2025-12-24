@@ -18,7 +18,7 @@ BepInEx mod for Casualties: Unknown, adding support for custom user-generated st
 
 ## Installing the mod:
 1. Locate the Plugins folder at `BepInEx/Plugins`
-2. Install the mod at [TODO]
+2. Install the mod at [https://github.com/jimmyking9999999/CU-Custom-Structures/raw/refs/heads/main/CustomStructures.zip](url)
 3. Extract the zip file into the plugins folder
 
 # Webtool
@@ -37,3 +37,4 @@ Three new Console commands
 - `structure {id}` (spawns a custom structure)
 - `locatestructure {id}` (locates a custom structure)
 - `togglemorestructures {true/false}` (enable/disable the mod, until you run this command again)
+- `reloadstructures` (reloads all .txt files and refreshes changes)
