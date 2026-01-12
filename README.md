@@ -2,7 +2,7 @@
 BepInEx mod for Casualties: Unknown, adding support for custom user-generated structures 
 
 
-- Adds 7 new custom structures to CU
+- Adds >50 new custom structures to CU
 - A tool to implement your own custom structures,
 - With any object in-game!
 - Rotation, scale, and non-grid alignment
@@ -31,6 +31,13 @@ The Webtool is hosted at https://cu-structure-editor.web.app
 - `Space` to toggle foreground/background mode
 
 <img width="930" height="457" alt="image" src="https://github.com/user-attachments/assets/d1b36828-1c37-4237-a98d-10fbc1dd28ac" />
+
+# Downloading additional structures
+1. Visit [https://cu-structure-editor.web.app/structures.html](https://cu-structure-editor.web.app/structures.html) and download the structure .txt files
+2. Move the files into BepInEx/Plugins/Structures
+3. Reload the game!
+<img width="1544" height="756" alt="image" src="https://github.com/user-attachments/assets/da769ece-e5b0-4aba-b919-fe0e2bb4c1a4" />
+
 
 # In-game 
 Three new Console commands 
