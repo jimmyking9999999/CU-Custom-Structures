@@ -2,7 +2,7 @@
 BepInEx mod for Casualties: Unknown, adding support for custom user-generated structures 
 
 
-- Adds >50 new custom structures to CU
+- Adds >130 new custom structures to CU
 - A tool to implement your own custom structures,
 - With any object in-game!
 - Rotation, scale, and non-grid alignment
