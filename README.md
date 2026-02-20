@@ -4,7 +4,7 @@
 <div align="center">
   <img width="670" height="430" alt="image" src="https://github.com/user-attachments/assets/e5339102-374f-4d4d-904d-f3b21a762686" />
 
-  [![Download v1.0.0](https://img.shields.io/badge/Download-v1.0.0-orange?logo=github)](https://github.com/jimmyking9999999/CU-Custom-Structures/raw/refs/heads/main/CustomStructures.zip)
+  [![Download v1.0.1](https://img.shields.io/badge/Download-v1.0.0-orange?logo=github)](https://github.com/jimmyking9999999/CU-Custom-Structures/raw/refs/heads/main/CustomStructures.zip)
   ![Game Version](https://img.shields.io/badge/Game_version-v5.0.3-green)
   
 
