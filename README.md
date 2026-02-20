@@ -1,5 +1,14 @@
 # CU-Custom-Structures
-BepInEx mod for Casualties: Unknown, adding support for custom user-generated structures 
+### BepInEx mod for Casualties: Unknown, adding custom user-generated structures 
+
+<div align="center">
+  <img width="670" height="430" alt="image" src="https://github.com/user-attachments/assets/e5339102-374f-4d4d-904d-f3b21a762686" />
+
+  [![Download v1.0.0](https://img.shields.io/badge/Download-v1.0.0-orange?logo=github)](https://github.com/jimmyking9999999/CU-Custom-Structures/raw/refs/heads/main/CustomStructures.zip)
+  ![Game Version](https://img.shields.io/badge/Game_version-v5.0.3-green)
+  
+
+</div>
 
 
 - Adds >130 new custom structures to CU
@@ -7,7 +16,7 @@ BepInEx mod for Casualties: Unknown, adding support for custom user-generated st
 - With any object in-game!
 - Rotation, scale, and non-grid alignment
 - Easy editing and sharing of structures
-<img width="750" height="750" alt="image" src="https://github.com/user-attachments/assets/d507e195-c90c-4390-8247-1251e4d11314" />
+
 
 
 # Installation: 
@@ -45,3 +54,5 @@ Three new Console commands
 - `locatestructure {id}` (locates a custom structure)
 - `togglemorestructures {true/false}` (enable/disable the mod, until you run this command again)
 - `reloadstructures` (reloads all .txt files and refreshes changes)
+
+<img width="750" height="750" alt="image" src="https://github.com/user-attachments/assets/d507e195-c90c-4390-8247-1251e4d11314" />
