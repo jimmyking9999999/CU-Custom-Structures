@@ -4,14 +4,14 @@
 <div align="center">
   <img width="670" height="430" alt="image" src="https://github.com/user-attachments/assets/e5339102-374f-4d4d-904d-f3b21a762686" />
 
-  [![Download v1.0.1](https://img.shields.io/badge/Download-v1.0.1-orange?logo=github)](https://github.com/jimmyking9999999/CU-Custom-Structures/raw/refs/heads/main/CustomStructures.zip)
-  ![Game Version](https://img.shields.io/badge/Game_version-v5.0.3-green)
+  [![Download v1.0.1](https://img.shields.io/badge/Download-v1.1-orange?logo=github)](https://github.com/jimmyking9999999/CU-Custom-Structures/raw/refs/heads/main/CustomStructures.zip)
+  ![Game Version](https://img.shields.io/badge/Game_version-v5.1-green)
   
 
 </div>
 
 
-- Adds >130 new custom structures to CU
+- Adds >250 new custom structures to CU
 - A tool to implement your own custom structures,
 - With any object in-game!
 - Rotation, scale, and non-grid alignment
@@ -32,12 +32,7 @@
 
 # Webtool
 The Webtool is hosted at https://cu-structure-editor.web.app
-- Create your own custom, and share the .txt file with the world!
-### Keybinds
-- Middle mouse button to pick block
-- `Shift` to toggle Precision mode. Drag to adjust location. 
-- `Shift + Ctrl` to rotate, `Shift + Alt` to scale
-- `Space` to toggle foreground/background mode
+- Create your own custom, and share the resulting file with the world!
 
 <img width="930" height="457" alt="image" src="https://github.com/user-attachments/assets/d1b36828-1c37-4237-a98d-10fbc1dd28ac" />
 
