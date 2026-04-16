@@ -31,16 +31,18 @@
 3. Extract the zip file into the plugins folder
 
 # Webtool
-The Webtool is hosted at https://cu-structure-editor.web.app
+The Webtool is hosted at https://cu-custom-structures.jimmyking.dev/ 
 - Create your own custom, and share the resulting file with the world!
 
-<img width="930" height="457" alt="image" src="https://github.com/user-attachments/assets/d1b36828-1c37-4237-a98d-10fbc1dd28ac" />
+<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/fb06a855-3da8-49c0-9b93-af996e764c8f" />
+
 
 # Downloading additional structures
-1. Visit [https://cu-structure-editor.web.app/structures.html](https://cu-structure-editor.web.app/structures.html) and download the structure .txt files
+1. Visit https://cu-custom-structures.jimmyking.dev/structures.html and download the structure .txt files
 2. Move the files into BepInEx/Plugins/Structures
 3. Reload the game!
-<img width="1544" height="756" alt="image" src="https://github.com/user-attachments/assets/da769ece-e5b0-4aba-b919-fe0e2bb4c1a4" />
+<img width="1556" height="902" alt="image" src="https://github.com/user-attachments/assets/c16f1c3f-6687-48bd-b956-f349d0221fae" />
+
 
 
 # In-game 
@@ -50,4 +52,5 @@ Three new Console commands
 - `togglemorestructures {true/false}` (enable/disable the mod, until you run this command again)
 - `reloadstructures` (reloads all .txt files and refreshes changes)
 
-<img width="750" height="750" alt="image" src="https://github.com/user-attachments/assets/d507e195-c90c-4390-8247-1251e4d11314" />
+<img width="889" height="672" alt="image" src="https://github.com/user-attachments/assets/4cff744b-e47d-4c1e-94e9-79b336f00378" />
+
