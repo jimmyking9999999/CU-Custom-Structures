@@ -12,12 +12,11 @@
 </div>
 
 
-- Adds >250 new custom structures to CU
+- Adds >350 new custom structures to CU
 - A tool to implement your own custom structures,
-- With any object in-game!
-- Rotation, scale, and non-grid alignment
+- With any object in-game! And heavy customization.
 - Easy editing and sharing of structures
-
+- Works with multiplayer
 
 
 # Installation: 
@@ -44,6 +43,7 @@ The Webtool is hosted at https://cu-custom-structures.jimmyking.dev/
 3. Reload the game!
 <img width="1556" height="902" alt="image" src="https://github.com/user-attachments/assets/c16f1c3f-6687-48bd-b956-f349d0221fae" />
 
+Alternatively, use the in-game level browser to enable/disable structures directly.
 
 
 # In-game 
@@ -53,5 +53,6 @@ Three new Console commands
 - `togglemorestructures {true/false}` (enable/disable the mod, until you run this command again)
 - `reloadstructures` (reloads all .txt files and refreshes changes)
 
-<img width="889" height="672" alt="image" src="https://github.com/user-attachments/assets/4cff744b-e47d-4c1e-94e9-79b336f00378" />
+<img width="1586" height="1079" alt="image" src="https://github.com/user-attachments/assets/b355e7b9-65dc-4072-9bc0-3c8cc83f3138" />
+
 
