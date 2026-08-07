@@ -6,6 +6,7 @@
 
   [![Download v1.0.1](https://img.shields.io/badge/Download-v1.1-orange?logo=github)](https://github.com/jimmyking9999999/CU-Custom-Structures/raw/refs/heads/main/CustomStructures.zip)
   [![Total Downloads](https://img.shields.io/github/downloads/jimmyking9999999/CU-Custom-Structures/total?color=blue&logo=github)](https://github.com/jimmyking9999999/CU-Custom-Structures/releases)
+  [![Nexus Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjimmyking9999999%2FMetadata-generator%2Fmain%2Fbadges%2Fcustom-structures.json)](https://www.nexusmods.com/scavprototype/mods/9)
   ![Game Version](https://img.shields.io/badge/Game_version-v6.1-green)
   
 
