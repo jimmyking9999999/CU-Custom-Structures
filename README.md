@@ -13,7 +13,7 @@
 </div>
 
 
-- Adds >350 new custom structures to CU
+- Adds >1000 new custom structures to CU
 - A tool to implement your own custom structures,
 - With any object in-game! And heavy customization.
 - Easy editing and sharing of structures
