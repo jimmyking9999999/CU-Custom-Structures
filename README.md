@@ -29,7 +29,8 @@
 ## Installing the mod:
 1. Locate the Plugins folder at `BepInEx/Plugins`
 2. Install the mod at [https://github.com/jimmyking9999999/CU-Custom-Structures/raw/refs/heads/main/CustomStructures.zip](https://github.com/jimmyking9999999/CU-Custom-Structures/raw/refs/heads/main/CustomStructures.zip)
-3. Extract the zip file into the plugins folder
+3. Install CUCoreLib at [https://github.com/jimmyking9999999/CUCoreLib/releases](https://github.com/jimmyking9999999/CUCoreLib/releases) (Latest or nightly both are okay)
+4. Extract the zip files for both mods into the plugins folder
 
 # Webtool
 The Webtool is hosted at https://cu-custom-structures.jimmyking.dev/ 
@@ -54,6 +55,5 @@ Three new Console commands
 - `togglemorestructures {true/false}` (enable/disable the mod, until you run this command again)
 - `reloadstructures` (reloads all .txt files and refreshes changes)
 
-<img width="1586" height="1079" alt="image" src="https://github.com/user-attachments/assets/b355e7b9-65dc-4072-9bc0-3c8cc83f3138" />
-
+<img width="1279" height="622" alt="image" src="https://github.com/user-attachments/assets/95e88567-b016-46de-85eb-53ed62805a2b" />
 
